@@ -1,4 +1,5 @@
 git status
 git add .
 git commit -m "comentarios"
+git pull
 git push origin
