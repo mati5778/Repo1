@@ -1,0 +1,6 @@
+{
+    "Aplication": ["HermesWeb", "Hermes"],
+    "AppPath": ["/home/pi/web/", "/home/pi/hermes/"],
+    "AppScan": "1",
+    "ScanTime": "10"
+}
